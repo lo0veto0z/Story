@@ -1,22 +1,281 @@
-[
-  {
-    "rollno": 2010991928,
-    "mess": "Yes",
-    "name": "Lovetoz"
-  },
-  {
-    "rollno": 2010991924,
-    "mess": "Yes",
-    "name": "Kushagra"
-  },
-  {
-    "rollno": 2010991904,
-    "mess": "No",
-    "name": "Kabir"
-  },
-  {
-    "rollno": 2010991919,
-    "mess": "No",
-    "name": "Kartik"
-  }
-]
+ [
+        {
+            "rollnum": "2010991881",
+            "mess": "yes",
+            "name": "harshit1881.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991886",
+            "mess": "yes",
+            "name": "himanshu1886.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991887",
+            "mess": "Yes",
+            "name": "himanshu1887.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991891",
+            "mess": "Yes",
+            "name": "hiten1891.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991892",
+            "mess": "YES",
+            "name": "hiten1892.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991893",
+            "mess": "NO",
+            "name": "ishan1893.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991894",
+            "mess": "Yes",
+            "name": "jai1894.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991895",
+            "mess": "Yes",
+            "name": "jalaj1895.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991897",
+            "mess": "Yes",
+            "name": "jashan1897.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991898",
+            "mess": "Yes",
+            "name": "jashanpreet1898.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991900",
+            "mess": "yes",
+            "name": "jatin1900.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991901",
+            "name": "jatinder1901.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991902",
+            "mess": "yes",
+            "name": "jiya1902.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991903",
+            "mess": "no",
+            "name": "joyprit1903.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991904",
+            "name": "kabir1904.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991905",
+            "mess": "Yes",
+            "name": "kamal1905.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991906",
+            "mess": "YES",
+            "name": "kamal1906.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991907",
+            "mess": "yes",
+            "name": "kamal1907.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991908",
+            "mess": "No",
+            "name": "kamalpreet1908.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991910",
+            "mess": "yes",
+            "name": "kanika1910.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991911",
+            "name": "kanika1911.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991913",
+            "mess": "No",
+            "name": "kanwar1913.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991914",
+            "mess": "yes",
+            "name": "kapish1914.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991916",
+            "mess": "NO",
+            "name": "karanbir1916.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991917",
+            "mess": "no",
+            "name": "karanjeet1917.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991918",
+            "mess": "YES",
+            "name": "kartik1918.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991919",
+            "mess": "NO",
+            "name": "kartik1919.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991920",
+            "name": "kartik1920.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991923",
+            "mess": "YES",
+            "name": "kritya1923.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991924",
+            "name": "kunal1924.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991925",
+            "mess": "Yes",
+            "name": "kushagra1925.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991927",
+            "mess": "No",
+            "name": "lokik1927.be20@chitkara.edu.in"
+        },
+        { 
+            "rollnum": "2010991928",
+          "mess" : "Yes",
+            "name": "lovetoz1928.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991930",
+            "name": "manav1930.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991931",
+            "mess": "Yes",
+            "name": "manish1931.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991933",
+            "mess": "Yes",
+            "name": "manjot1933.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991934",
+            "mess": "yes",
+            "name": "maryada1934.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991935",
+            "mess": "yes",
+            "name": "mayank1935.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991936",
+            "name": "mayank1936.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991937",
+            "mess": "yes",
+            "name": "mayank1937.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991938",
+            "mess": "Yes",
+            "name": "mayank1938.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991939",
+            "name": "meemansa1939.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991943",
+            "mess": "Yes",
+            "name": "moghasha1943.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991944",
+            "mess": "Yes",
+            "name": "mudit1944.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991946",
+            "name": "muskan1946.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991949",
+            "mess": "No",
+            "name": "naman1949.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991950",
+            "mess": "Yes",
+            "name": "namandeep1950.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991951",
+            "mess": "No",
+            "name": "nandini1951.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991952",
+            "mess": "Yes",
+            "name": "naureen1952.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991954",
+            "name": "nikhil1954.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991957",
+            "name": "nimrat1957.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991958",
+            "mess": "No",
+            "name": "nishant1958.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991960",
+            "mess": "Yes",
+            "name": "nitin1960.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991962",
+            "mess": "Yes",
+            "name": "niyati1962.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991963",
+            "mess": "Yes",
+            "name": "om1963.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991964",
+            "mess": "Yes",
+            "name": "parivesh1964.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991965",
+            "mess": "Yes",
+            "name": "parneet1965.be20@chitkara.edu.in"
+        },
+        {
+            "rollnum": "2010991966",
+            "mess": "Yes",
+            "name": "parteek1966.be20@chitkara.edu.in"
+        }
+    ]
